@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olamide Anthony Smith 👋</h1>
-<h3 align="center">Cloud · DevOps · Backend Engineer — AWS | Docker | CI/CD | Python · FastAPI</h3>
+<h3 align="center">Cloud · DevOps · Backend Engineer  ·  AWS | Docker | CI/CD | Python · FastAPI</h3>
 
 <p align="center">
   <a href="mailto:olamidesmith4@gmail.com"><img src="https://img.shields.io/badge/Email-olamidesmith4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -12,11 +12,11 @@
 
 ### 🚀 About me
 
-Cloud Computing & DevOps engineer with a backend bias, building reliable, containerized Python services and automated delivery pipelines. I bring three years of operations and compliance experience from financial services into how I build software — reliability and security first.
+Cloud Computing & DevOps engineer with a backend bias, building reliable, containerized Python services and automated delivery pipelines. I bring three years of operations and compliance experience from financial services into how I build software, with reliability and security first.
 
 - 🛠️ I build with **AWS, Linux, Docker, CI/CD, Python and FastAPI**
 - ☁️ Completed the **Techcrush Cloud Computing** programme (Cohort 6) and working toward the **AWS Cloud Practitioner** certification
-- 🛡️ Currently shipping **AegisScan** — a FastAPI web-security scanner with an SSRF-guarded async engine, OWASP-mapped findings and a multi-version CI matrix
+- 🛡️ Currently shipping **AegisScan**, a FastAPI web-security scanner with an SSRF-guarded async engine, OWASP-mapped findings and a multi-version CI matrix
 - 🤖 Growing an **AI automation & consulting** practice on the side
 - 📫 Reach me at **olamidesmith4@gmail.com**
 
@@ -53,8 +53,8 @@ Cloud Computing & DevOps engineer with a backend bias, building reliable, contai
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🛡️ **[AegisScan](https://github.com/kayefi737/AegisScan)** | Grades any website's external security posture in ~10s — 20+ passive checks across 9 categories, OWASP-mapped fixes, SSRF-guarded async engine, OpenAPI docs | FastAPI · SQLAlchemy · httpx · JWT · Docker · GitHub Actions |
-| 🔗 **[Link Saver](https://github.com/kayefi737/Link-Saver)** | Backend REST API to store and organize links — full CRUD, JWT/OAuth2, Alembic migrations | FastAPI · PostgreSQL · SQLAlchemy · Pydantic |
+| 🛡️ **[AegisScan](https://github.com/kayefi737/AegisScan)** | Grades any website's external security posture in ~10s. 20+ passive checks across 9 categories, OWASP-mapped fixes, SSRF-guarded async engine, OpenAPI docs | FastAPI · SQLAlchemy · httpx · JWT · Docker · GitHub Actions |
+| 🔗 **[Link Saver](https://github.com/kayefi737/Link-Saver)** | Backend REST API to store and organize links: full CRUD, JWT/OAuth2, Alembic migrations | FastAPI · PostgreSQL · SQLAlchemy · Pydantic |
 
 ---
 
@@ -67,4 +67,4 @@ Cloud Computing & DevOps engineer with a backend bias, building reliable, contai
 
 ---
 
-<p align="center"><i>Building reliable cloud infrastructure and clean backend systems — one command at a time.</i></p>
+<p align="center"><i>Building reliable cloud infrastructure and clean backend systems, one command at a time.</i></p>
