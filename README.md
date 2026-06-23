@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Olamide Anthony Smith 👋</h1>
+<h1 align="center">Hi, I'm Olamide Smith 👋</h1>
 <h3 align="center">Cloud · DevOps · Backend Engineer  ·  AWS | Docker | CI/CD | Python · FastAPI</h3>
 
 <p align="center">
